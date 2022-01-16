@@ -1,6 +1,8 @@
 # MTSxMIPTxSk-ML-Credit
 🤖 Home Credit Default Risk project in educational purposes
 
+[🔗 Kaggle Link](https://www.kaggle.com/c/home-credit-default-risk)
+
 ## How to launch HW2
 
 1. Go to repo folder.
